@@ -1,3 +1,4 @@
+import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import static io.restassured.RestAssured.given;
@@ -6,7 +7,8 @@ import org.testng.annotations.Test;
 
 public class Rest {
 
-	@Test
+	@Test(description = "test description2")
+	@Description("test description1")
     public void testGetPersonById() {
         RestAssured.baseURI = "https://swapi.dev/api/";
 

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-14T19:09:57 WET" name="Default suite" finished-at="2023-01-14T19:10:03 WET" duration-ms="6221">
+  <suite started-at="2023-01-15T10:20:10 WET" name="Default suite" finished-at="2023-01-15T10:20:15 WET" duration-ms="4679">
     <groups>
     </groups>
-    <test started-at="2023-01-14T19:09:57 WET" name="Default test" finished-at="2023-01-14T19:10:03 WET" duration-ms="6221">
+    <test started-at="2023-01-15T10:20:10 WET" name="Default test" finished-at="2023-01-15T10:20:15 WET" duration-ms="4679">
       <class name="Rest">
-        <test-method signature="testGetPersonById()[pri:0, instance:Rest@704deff2]" started-at="2023-01-14T19:09:57 WET" name="testGetPersonById" description="test description2" finished-at="2023-01-14T19:10:03 WET" duration-ms="6022" status="PASS">
+        <test-method signature="testGetPersonById()[pri:0, instance:Rest@704deff2]" started-at="2023-01-15T10:20:10 WET" name="testGetPersonById" description="test description2" finished-at="2023-01-15T10:20:15 WET" duration-ms="4493" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetPersonById -->
